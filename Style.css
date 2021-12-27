@@ -1,0 +1,23 @@
+h1, h2{
+    color: red;
+}
+li{
+    color: blue;
+}
+b, span{
+    background-color: yellowgreen;
+}
+a{
+    text-decoration: none;
+    background-color: yellowgreen;
+}
+p{
+    color: red;
+}
+ol{
+    line-height: 40px;
+}
+ul{
+    word-spacing: 8px;
+    letter-spacing: 4px;
+}
